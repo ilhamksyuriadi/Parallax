@@ -9,6 +9,17 @@ html {
   color: #666;
 }
 
+.pimg-1,
+.pimg-2,
+.pimg-3 {
+  position: relative;
+  opacity: 0.7;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 .pimg-1 {
   background-image: url("bg-1.jpg");
   min-height: 100%;
